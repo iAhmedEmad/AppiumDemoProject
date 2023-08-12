@@ -1,2 +1,2 @@
 # AppiumDemo
-This is a demo app for Appium
+This is an Appium Demo project using "API Demos APK"
