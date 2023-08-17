@@ -1,6 +1,8 @@
-# AppiumDemo
-This is an Appium Demo project using "API Demos APK"
-- The project implements modular design using Page Object Model design pattern (POM)
-- Externalizing test data from JSON file
-- Using fluent design approach
+# Appium - Mobile Test Automation Demo Project
+This demo project is an Appium Practice for Mobile Test Automation using "API Demos APK"
+
+### The project implements the following:
+- Modular Design Using Page Object Model Design Pattern (POM)
+- Externalizing Test Data From JSON File
+- Fluent Design Approach (Full Fluency)
 
